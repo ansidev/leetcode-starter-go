@@ -4,12 +4,12 @@
 
 This is a starter project for solving LeetCode problem using Go.
 
-## How to use?
+## How to use it?
 
 1. Clone this repository.
 2. Update LICENSE (ex, change the author name).
-3. Run `make prepare` to install necessary packages.
-4. Run `task lc -- {leetcode_problem_number}` to generate code for solving new LeetCode problem using Go.
+3. Run `make prepare` to install the necessary packages.
+4. Run `task lc -- {leetcode_problem_number}` to generate code for solving a new LeetCode problem using Go.
 5. Run `task test` to test all of your code.
 6. Update your progress in [PROBLEM.md](/PROBLEMS.md).
 
